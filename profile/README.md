@@ -4,9 +4,32 @@
 
 **Software should be able to explain itself. Ours does.**
 
-[aiaiaiaitech.nilx.one](https://aiaiaiaitech.nilx.one) · `machine-readable organizations` · `browser-native AI` · `local-first inference`
+[aiaiaiaitech.nilx.one](https://aiaiaiaitech.nilx.one) · `parent organization` · `machine-readable organizations` · `browser-native AI` · `local-first inference`
 
 </div>
+
+---
+
+## Organization
+
+**aiaiaiai tech.** (also **4xAI tech.**) is the parent organization for the non-personal projects and organizations in this ecosystem.
+
+- **Owner:** [0x0sky](https://github.com/0x0sky)
+- **Current form:** GitHub organization
+- **Intended legal form:** Ukrainian limited liability company (ТОВ)
+- **Child organizations / namespaces:** [0xda-market](https://github.com/0xda-market) and [nilx.one](https://github.com/nilx-one)
+
+The hierarchy above is an organizational and ownership model, not a GitHub-native hierarchy. GitHub represents these organizations as peer namespaces; that technical equality does not define their governance or ownership relationship.
+
+```text
+0x0sky                         owner
+└── aiaiaiai tech. / 4xAI tech.   parent organization
+    ├── 0xda-market                digital commerce
+    └── nilx.one                   protocol / ecosystem namespace
+        └── 0x1                    protocol product
+```
+
+Personal projects owned by `0x0sky` remain outside this corporate hierarchy unless explicitly declared otherwise.
 
 ---
 
@@ -37,31 +60,15 @@ We run the inverse. Everything an organization *is* lives in a **mind**: a versi
 
 ## Ecosystem
 
-```text
-                         aiaiaiai tech.
-                                │
-                 ┌──────────────┼──────────────┐
-                 │              │              │
-               mind            0x1        0xda-market
-                 │
-           manifest.yaml
-                 │
-        organization graph
-                 │
-       browser-native inference
-                 │
-          local WebGPU LLM
-```
-
-aiaiaiai tech. is the parent organization. Each project can implement the same `mind` schema, allowing the wider group to render as one navigable graph.
-
-The AI layer runs in the browser, on the user's GPU. There is no dedicated inference server and no model-side telemetry. The model comes to the public data instead of moving the data into a centralized inference service.
-
-| Project | Purpose |
+| Entity | Role |
 |---|---|
-| [**mind**](https://github.com/aiaiaiaitech) | Shared machine-readable organization schema built around `manifest.yaml`. The foundation for self-describing repositories and navigable organization graphs. |
-| [**0x1**](https://github.com/0-x1) | Peer-to-peer social protocol where the unit of truth is a signature between two people. Trust-minimized, local-first, and designed without a server-owned social graph. |
-| [**0xda-market**](https://github.com/0xda-market) | Provider-agnostic execution and catalog core. Turns client intent into a quoted, accepted, and fulfilled order without coupling the core to a particular client or provider. |
+| [**aiaiaiai tech.**](https://github.com/aiaiaiaitech) | Parent research and engineering organization for non-personal work. |
+| [**0xda-market**](https://github.com/0xda-market) | Child organization focused on provider-agnostic digital commerce infrastructure. |
+| [**nilx.one**](https://github.com/nilx-one) | Child namespace for protocol and ecosystem artifacts. |
+| [**0x1**](https://github.com/nilx-one/0x1) | Protocol product developed inside the `nilx.one` branch of the ecosystem. |
+| [**mind**](https://github.com/aiaiaiaitech/mind) | Machine-readable organization context and shared organizational model. |
+
+Each organization can implement the same `mind` contract, allowing the wider group to render as one navigable graph while preserving independent repositories and GitHub namespaces.
 
 ---
 
@@ -73,30 +80,18 @@ The AI layer runs in the browser, on the user's GPU. There is no dedicated infer
 - **Structure over policy.** Important rules belong in schemas, invariants, and automation—not documents that merely ask people to remember them.
 - **Heavy lifting stays boring.** Indexing, caching, and vector search run on commodity infrastructure. The differentiated layer is the last inch that runs on the user's machine.
 - **Ship the specification.** Open questions remain explicitly open. We do not ship confidence we have not earned.
-- **Public systems should be inspectable.** Architecture, status, and limitations should be visible in the repositories that implement them.
-
----
-
-## Roadmap
-
-- [x] Versioned machine-readable manifests
-- [x] Shared organization schema
-- [x] Multi-project graph model
-- [ ] Live GitHub-backed graph explorer
-- [ ] Browser-native WebGPU inference
-- [ ] Cross-organization graph federation
-- [ ] Stable public schema release
+- **Public systems should be inspectable.** Architecture, status, ownership, and limitations should be visible in the repositories that implement them.
 
 ---
 
 ## Status
 
-The `mind` schema is being developed across the aiaiaiai tech. ecosystem. The graph explorer—live GitHub data, real manifests, and on-device inference—is in active development for [aiaiaiaitech.nilx.one](https://aiaiaiaitech.nilx.one).
+The `mind` model is being developed across the aiaiaiai tech. ecosystem. The graph explorer—live GitHub data, real manifests, and on-device inference—is in active development for [aiaiaiaitech.nilx.one](https://aiaiaiaitech.nilx.one).
 
 We are building organizations that software can understand before humans have to explain them.
 
 <div align="center">
 
-[Site](https://aiaiaiaitech.nilx.one) · [0x1](https://github.com/0-x1) · [0xda-market](https://github.com/0xda-market) · [0x0sky](https://github.com/0x0sky)
+[Site](https://aiaiaiaitech.nilx.one) · [0xda-market](https://github.com/0xda-market) · [nilx.one](https://github.com/nilx-one) · [0x0sky](https://github.com/0x0sky)
 
 </div>
