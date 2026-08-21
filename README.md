@@ -1,10 +1,12 @@
 # aiaiaiai tech. organization metadata
 
-This repository contains the shared GitHub organization metadata for [`aiaiaiaitech`](https://github.com/aiaiaiaitech).
+This repository contains the shared GitHub organization metadata for [`aiaiaiai-tech`](https://github.com/aiaiaiai-tech).
 
 ## Organization profile
 
 The public organization profile is defined in [`profile/README.md`](profile/README.md) and rendered on the organization overview page.
+
+Canonical public identity: [aiaiaiai.org](https://aiaiaiai.org).
 
 ## Scope
 
