@@ -1,6 +1,6 @@
-# aiaiaiai tech. organization metadata
+# aiaiaiai organization metadata
 
-This repository contains the shared GitHub organization metadata for [`aiaiaiai-tech`](https://github.com/aiaiaiai-tech).
+This repository contains the shared GitHub organization metadata for [`aiaiaiai-org`](https://github.com/aiaiaiai-org).
 
 ## Organization profile
 
