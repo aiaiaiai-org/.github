@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://github.com/aiaiaiai-org/mind/blob/master/assets/visual/aiaiaiai/compact-emblem.svg">
+  <img src="https://raw.githubusercontent.com/aiaiaiai-org/mind/master/assets/visual/aiaiaiai/compact-emblem.svg" width="160" alt="aiaiaiai compact emblem">
+</a>
+
 # aiaiaiai
 
 **Software should be able to explain itself. Ours does.**
@@ -22,6 +26,8 @@
 - **Child branches:** [0xda-market](https://github.com/0xda-market) and **nilx.one**, whose current primary repository is [0x1](https://github.com/nilx-one/0x1)
 
 GitHub represents organizations as peer namespaces. That technical equality does not define the ownership or governance model of this ecosystem.
+
+The emblem shown above is projected from the canonical visual source in [`aiaiaiai-org/mind`](https://github.com/aiaiaiai-org/mind/tree/master/assets/visual/aiaiaiai); this profile is a presentation surface, not the identity authority.
 
 ```text
 0x0sky                       owner / root identity
@@ -90,3 +96,5 @@ The canonical public identity for the parent organization is [aiaiaiai](https://
 [Site](https://aiaiaiai.org) · [mind](https://github.com/aiaiaiai-org/mind) · [mind-web](https://github.com/aiaiaiai-org/mind-web) · [0xda-market](https://github.com/0xda-market) · [0x1](https://github.com/nilx-one/0x1) · [0x0sky](https://github.com/0x0sky)
 
 </div>
+
+<!-- © 2026 aiaiaiai · aiaiaiai.org -->
