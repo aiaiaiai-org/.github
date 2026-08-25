@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <!-- © 2026 aiaiaiai · aiaiaiai.org -->
+  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+    <title id="title">aiaiaiai compact emblem</title>
+    <desc id="desc">Production compact derivation of the canonical 2023 faceted polyhedron.</desc>
+
+<defs>
+  <mask id="aia-mask" maskUnits="userSpaceOnUse" x="0" y="0" width="64" height="64">
+    <rect width="64" height="64" fill="black"/>
+    <path d="M32 5 53 17 51 43 32 58 13 43 11 17Z" fill="white"/>
+    <path d="M32 5 21 22 11 17 M32 5 43 22 53 17 M21 22H43 M21 22 13 43 M43 22 51 43 M21 22 32 49 43 22 M13 43 32 49 51 43 M32 49V58" fill="none" stroke="black" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  </mask>
+</defs>
+<g mask="url(#aia-mask)">
+  <rect width="64" height="64" fill="#5BC6F4"/>
+
+    <path d="M32 5 21 22 43 22Z" fill="#8CD8F8" opacity=".34"/>
+    <path d="M43 22 53 17 51 43 32 49Z" fill="#3FA9D8" opacity=".28"/>
+    <path d="M13 43 32 49 32 58Z" fill="#3FA9D8" opacity=".20"/>
+
+</g>
+
+  </svg>
