@@ -19,3 +19,7 @@ This repository is reserved for organization-wide GitHub configuration and metad
 - other GitHub-specific defaults shared across repositories.
 
 Project code and product documentation belong in their respective repositories.
+
+## Cross-product design
+
+The [shared identity design](ecosystem/identity/DESIGN.md) records ecosystem-wide authentication and product onboarding boundaries, without superseding product-specific contracts.
