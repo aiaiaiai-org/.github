@@ -71,6 +71,8 @@ An xPing toast and a Prism inline error may render the *same normalized result*.
 
 Cross-product promotion is **not** part of neutral login. A product may introduce another product only within a meaningful, already chosen product experience and without coercion. Prism and 0x1 retain independent audiences and product responsibilities.
 
+**Naming and bot entry point:** Never present a Prism or Prism Hubot login as **“Sign in with 0x1”**. 0x1 is a product, not an identity provider. If a separate account connection is necessary, a neutral action such as **“Sign in with aiaiaiai ID”** is appropriate, without launching 0x1 or requiring a Bond/game onboarding. Preserve usable existing bot scenarios that do not need a new shared account; do not force registration merely to receive an existing service.
+
 ## 5. Contextual transactional email and sender domains
 
 The email challenge is **issued, verified, rate-limited, expired, and consumed exclusively by Identity**. A product-specific renderer may change language, tone, design, and approved sender; it cannot change verification or issue its own parallel identity.
