@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/emblem.svg" width="144" alt="aiaiaiai emblem">
+<img src="https://raw.githubusercontent.com/aiaiaiai-org/.github/main/profile/assets/aiaiaiai-emblem.jpg" width="144" alt="aiaiaiai four-color glass emblem">
 
 # aiaiaiai
 
